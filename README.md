@@ -45,8 +45,8 @@ Edge & Smoothing Variants
 </p> 
 
 <p align="center"> 
-  <b>Poly</b>; 
-  <b>No Smooth</b>; 
+  <b>Poly</b> 
+  <b>No Smooth</b>
   <b>Full</b> 
 </p>
 
