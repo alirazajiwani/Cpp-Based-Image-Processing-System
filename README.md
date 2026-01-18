@@ -45,8 +45,8 @@ Edge & Smoothing Variants
 </p> 
 
 <p align="center">
-  <span style="margin-right:80px;"><b>Poly</b></span>
-  <span style="margin-right:80px;"><b>No Smooth</b></span>
+  <span style="margin-right:8000px;"><b>Poly</b></span>
+  <span style="margin-right:8000px;"><b>No Smooth</b></span>
   <span><b>Full</b></span>
 </p>
 
@@ -57,7 +57,7 @@ Feature Enhancement Outputs
 </p> 
 
 <p align="center">
-  <span style="margin-right:80px;"><b>Emboss</b></span>
+  <span style="margin-right:10000px;"><b>Emboss</b></span>
   <span><b>Edges Only</b></span>
 </p>
 
