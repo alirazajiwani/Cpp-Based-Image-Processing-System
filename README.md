@@ -33,24 +33,12 @@ Cpp-Based-Image-Processing-System/
 ## 📈 Results
 
 ### Input Image:
-<img src="https://github.com/user-attachments/assets/ecb87d74-de45-4eb0-8794-3dfc6ceae5d9" width="500"/>
+<p align="center"> <img src="https://github.com/user-attachments/assets/ecb87d74-de45-4eb0-8794-3dfc6ceae5d9" width="400"/> </p>
 
 ### Output Image:
 
-***OutputImage_Poly***
-![OutputImage_Poly](https://github.com/user-attachments/assets/7cd775b4-e7b8-4cde-bf96-1450561d7f4c)
-
-***OutputImage_NoSmooth***
-![OutputImage_NoSmooth](https://github.com/user-attachments/assets/bd4102c6-6e55-4bf7-968a-acb1110b15c4)
-
-***OutputImage_Full***
-![OutputImage_Full](https://github.com/user-attachments/assets/8600968d-4715-4f8d-b5fe-3bfedfaf58fe)
-
-***OutputImage_Emboss***
-![OutputImage_Emboss](https://github.com/user-attachments/assets/f847d08b-1033-44b6-ae67-8baaac8eb22b)
-
-***OutputImage_EdgesOnly***
-![OutputImage_EdgesOnly](https://github.com/user-attachments/assets/2b4cdb0d-fb69-489e-a158-bbd57c466222)
+Edge & Smoothing Variants
+<p align="center"> <img src="https://github.com/user-attachments/assets/7cd775b4-e7b8-4cde-bf96-1450561d7f4c" width="220"/> <img src="https://github.com/user-attachments/assets/bd4102c6-6e55-4bf7-968a-acb1110b15c4" width="220"/> <img src="https://github.com/user-attachments/assets/8600968d-4715-4f8d-b5fe-3bfedfaf58fe" width="220"/> </p> <p align="center"> <b>Poly</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>No Smooth</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Full</b> </p>
 
 ---
 
