@@ -22,9 +22,9 @@ This project is suitable for learning purposes, academic projects, and as a base
 Cpp-Based-Image-Processing-System/
 │
 ├── Images/          # Sample input/output images
-├── include/         # Header files (.h)
+├── include/         # Header files (.hpp)
 ├── src/             # Source files (.cpp)
-├── IPrun/           # Executable / runner files
+├── IPrun           # Executable / runner files
 ├── Makefile         # Build configuration
 └── README.md        # Project documentation
 ```
