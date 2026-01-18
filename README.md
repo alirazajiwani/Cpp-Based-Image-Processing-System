@@ -33,7 +33,7 @@ Cpp-Based-Image-Processing-System/
 ## 📈 Results
 
 ### Input Image:
-![SourceImage](https://github.com/user-attachments/assets/ecb87d74-de45-4eb0-8794-3dfc6ceae5d9)
+<img src="https://github.com/user-attachments/assets/ecb87d74-de45-4eb0-8794-3dfc6ceae5d9" width="500"/>
 
 ### Output Image:
 
