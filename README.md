@@ -44,10 +44,10 @@ Edge & Smoothing Variants
   <img src="https://github.com/user-attachments/assets/8600968d-4715-4f8d-b5fe-3bfedfaf58fe" width="220"/> 
 </p> 
 
-<p align="center">
-  <span style="margin-right:8000px;"><b>Poly</b></span>
-  <span style="margin-right:8000px;"><b>No Smooth</b></span>
-  <span><b>Full</b></span>
+<p align="center"> 
+  <b>Poly</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>No Smooth</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>Full</b> 
 </p>
 
 Feature Enhancement Outputs
@@ -56,10 +56,9 @@ Feature Enhancement Outputs
   <img src="https://github.com/user-attachments/assets/2b4cdb0d-fb69-489e-a158-bbd57c466222" width="220"/> 
 </p> 
 
-<p align="center">
-  <span style="margin-right:10000px;"><b>Emboss</b></span>
-  <span><b>Edges Only</b></span>
-</p>
+<p align="center"> 
+  <b>Emboss</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>Edges Only</b> </p>
 
 ---
 
