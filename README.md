@@ -39,9 +39,9 @@ Cpp-Based-Image-Processing-System/
 
 Edge & Smoothing Variants
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/7cd775b4-e7b8-4cde-bf96-1450561d7f4c" width="220"/> 
-  <img src="https://github.com/user-attachments/assets/bd4102c6-6e55-4bf7-968a-acb1110b15c4" width="220"/> 
-  <img src="https://github.com/user-attachments/assets/8600968d-4715-4f8d-b5fe-3bfedfaf58fe" width="220"/> 
+  <img src="https://github.com/user-attachments/assets/7cd775b4-e7b8-4cde-bf96-1450561d7f4c" width="400"/> 
+  <img src="https://github.com/user-attachments/assets/bd4102c6-6e55-4bf7-968a-acb1110b15c4" width="400"/> 
+  <img src="https://github.com/user-attachments/assets/8600968d-4715-4f8d-b5fe-3bfedfaf58fe" width="400"/> 
 </p> 
 
 <p align="center"> 
@@ -52,8 +52,8 @@ Edge & Smoothing Variants
 
 Feature Enhancement Outputs
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/f847d08b-1033-44b6-ae67-8baaac8eb22b" width="220"/> 
-  <img src="https://github.com/user-attachments/assets/2b4cdb0d-fb69-489e-a158-bbd57c466222" width="220"/> 
+  <img src="https://github.com/user-attachments/assets/f847d08b-1033-44b6-ae67-8baaac8eb22b" width="400"/> 
+  <img src="https://github.com/user-attachments/assets/2b4cdb0d-fb69-489e-a158-bbd57c466222" width="400"/> 
 </p> 
 
 <p align="center"> 
